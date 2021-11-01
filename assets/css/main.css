@@ -112,6 +112,10 @@ input, select, textarea {
 		body.delichan {
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg-delichan.jpg");
 		}
+		
+		body.criseldia {
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg-criseldia.jpg");
+		}
 
 		body.capuccino {
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg-capuccino.jpg");
